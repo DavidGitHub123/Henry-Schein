@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+a:link { 
+  text-decoration: none; 
+}
+
+a { 
+color: #fff;
+}
+
+.header-color {
+  background-color: #060E36;
+}
+
+.border-radius {
+  border-radius: 25px;
+}
+
+
